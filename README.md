@@ -37,4 +37,4 @@ Please ensure that your contributions adhere to the repository's coding standard
 
 ## License
 
-The JavaAssignments repository is open-source and is licensed under the MIT License. However, please refer to the LICENSE file for the full terms and conditions.
+The JavaAssignments repository is open-source and is licensed under the MIT License.
