@@ -39,4 +39,4 @@ Thank you for your contribution to this Space Project.
 
 ## License
 
-This program is released under the MIT License. See [LICENSE](https://opensource.org/license/mit/)) for more details.
+This program is released under the MIT License. See [LICENSE](https://opensource.org/license/mit/) for more details.
